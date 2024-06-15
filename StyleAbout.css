@@ -1,3 +1,5 @@
-body {
+.image {
     background-image: url(Assets/Images/HildeArminiae.jpg);
+    background-size: cover;
+    background-position: right;
 }
